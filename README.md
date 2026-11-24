@@ -1,4 +1,4 @@
-# itvcheck — diagnostics for machine-learning studies on compiled trait-variability data
+# itvcheck diagnostics for machine learning studies on compiled trait-variability data
 
 Accompanies the manuscript *What can a compiled root-trait dataset support? Grouped validation, effective sample size and a
 calibrated null for intraspecific trait variation*. Pure NumPy / SciPy / scikit-learn (no statsmodels).
