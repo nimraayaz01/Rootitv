@@ -1,10 +1,10 @@
-"""itvcheck: diagnostics for machine-learning studies on compiled trait-variability data.
-Pure numpy/scipy/scikit-learn (no statsmodels). Components:
+"""itvcheck: diagnostics for machine learning studies on compiled trait variability data.
+Pure numpy/scipy/scikit learn (no statsmodels). Components:
   fit_reml          crossed-random-effects linear mixed model by REML/ML, optional known measurement variance
   cv_sampling_var   sampling variance of a coefficient of variation; bias correction
-  design_sim        calibrated-null simulation with site AND species structure, correlated predictors,
-                    heteroscedastic sampling noise and a fully nested hyper-parameter search
-  grouped_oof       nested, site-grouped (or leave-one-site-out) out-of-fold predictions
+  design_sim        calibrated null simulation with site AND species structure, correlated predictors,
+                    heteroscedastic sampling noise and a fully nested hyperparameter search
+  grouped_oof       nested, site grouped (or leave-one-site-out) out-of-fold predictions
   skill_table       pooled skill against the training mean with a site-cluster bootstrap
 """
 import numpy as np, pandas as pd
