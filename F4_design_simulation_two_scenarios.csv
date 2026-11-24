@@ -1,0 +1,15 @@
+scenario,true_share_of_total_var,realized_share,exp_mean_fold_R2,P_meanR2_gt0,exp_pooled_skill,P_skill_gt0,P_beat_ge4of5,n_sims
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.0,0.0,-0.2915047436264651,0.0,-0.03201035718147123,0.17,0.04,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.05,0.05185215885452767,-0.24020838934146233,0.03,0.0011754512099096492,0.32,0.14,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.1,0.10221850148803123,-0.2629921681028311,0.07,0.017060441466293125,0.47,0.26,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.15,0.15170866216946696,-0.19270826282078157,0.15,0.0751234382801227,0.66,0.46,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.2,0.20054435098695844,-0.1240205286360968,0.25,0.13948562137360798,0.8,0.6,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.3,0.3026128660244009,0.03621868801466036,0.73,0.27623135413007294,0.97,0.9,100
+"S1_plain (all non-climate variance is real: site 49%, species 20%, residual 32%)",0.4,0.39528053887955267,0.16734964175200306,0.97,0.40798477351858786,1.0,1.0,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.0,0.0,-0.27235425358516263,0.02,-0.032194240136158486,0.17,0.06,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.05,0.04625577716270615,-0.23543545677217143,0.03,-0.003150240833888054,0.31,0.18,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.1,0.09092169318757852,-0.2565962748562179,0.08,0.01084588547431871,0.44,0.22,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.15,0.13554333741841226,-0.19339873647888897,0.15,0.057696078923186,0.61,0.43,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.2,0.1800953703556076,-0.14381244279214683,0.23,0.11070544476732574,0.75,0.57,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.3,0.2712400081882304,0.005094373454025937,0.62,0.24214323439240357,0.95,0.86,100
+"S2_noise (n-only sampling noise 24%, rest real)",0.4,0.3525685679422812,0.11658525571033639,0.87,0.3591340746032617,1.0,0.98,100
